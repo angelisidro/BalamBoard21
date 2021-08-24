@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=CNY2 Pin=J2-2
+Removed Pin From Net: NetName=CNY3 Pin=J2-3
+Removed Pin From Net: NetName=CNY2 Pin=J3-2
+Removed Pin From Net: NetName=CNY3 Pin=J3-3
+Change Component Footprint: Designator=J2 Old Footprint=SMTC-SSW-106-02-X-S New Footprint=FP-M20-9950345-MFG
+Change Component Footprint: Designator=J3 Old Footprint=SMTC-SSW-106-02-X-S New Footprint=FP-M20-9950345-MFG
+Change Component Comment : Designator=J2 Old Comment=SSW-106-02-G-S New Comment=M20-9950345
+Change Component Comment : Designator=J3 Old Comment=SSW-106-02-G-S New Comment=M20-9950345
+Change Component Designator: OldDesignator=ON/OFF NewDesignator=ON/OFF1
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97D8F4BA-93F0-494D-A19E-B10C61E25639 New ItemGUID=D6F0874C-43C7-4DB9-A65B-C412A22939EF Old RevisionGUID=EFA14B05-8796-406B-925D-DF1B8F773EFA New RevisionGUID=58835E6D-96BE-4C52-95DE-8584ED69B20F
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97D8F4BA-93F0-494D-A19E-B10C61E25639 New ItemGUID=D6F0874C-43C7-4DB9-A65B-C412A22939EF Old RevisionGUID=EFA14B05-8796-406B-925D-DF1B8F773EFA New RevisionGUID=58835E6D-96BE-4C52-95DE-8584ED69B20F
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SMTC-SSW-106-02-X-S"; UniqueID = "\XLWCMLHV" ("\XLWCMLHV")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://cdn.harwin.com/pdfs/M20-995.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Gold,Nickel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER R/A 6POS 2.54MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.28mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "DFN400X400X80-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-9950345"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Headers & Wire Housings 03+03 DIL HORIZONTAL PIN HEADER GOLD HT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number Of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number Of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/m20-9950345-harwin-21265213"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SMTC-SSW-106-02-X-S"; UniqueID = "\WMMORLEC" ("\WMMORLEC")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://cdn.harwin.com/pdfs/M20-995.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Gold,Nickel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER R/A 6POS 2.54MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.28mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "DFN400X400X80-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-9950345"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Headers & Wire Housings 03+03 DIL HORIZONTAL PIN HEADER GOLD HT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number Of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number Of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/m20-9950345-harwin-21265213"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CNY3 Pin=J2-2
+Added Pin To Net: NetName=CNY2 Pin=J2-3
+Added Pin To Net: NetName=CNY3 Pin=J3-2
+Added Pin To Net: NetName=CNY2 Pin=J3-3
+Added Member To Class: ClassName=schematic Member=Component J2 M20-9950345
+Added Member To Class: ClassName=schematic Member=Component J3 M20-9950345
+Added Member To Class: ClassName=Motores Member=Component ON/OFF1 EG1218
+Added Member To Class: ClassName=Alimentacion Member=Component ON/OFF EG1218

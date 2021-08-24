@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3 Pin=P20-1
+Removed Pin From Net: NetName=GND Pin=P20-2
+Removed Pin From Net: NetName=SCLK Pin=P20-3
+Removed Pin From Net: NetName=SDI/SPI Pin=P20-4
+Removed Pin From Net: NetName=CS Pin=P20-5
+Removed Pin From Net: NetName=SDO Pin=P20-6
+Removed Member From Class: ClassName=Alimentacion Member=ON/OFF1
+Removed Member From Class: ClassName=schematic Member=P20
+Added Member To Class: ClassName=Alimentacion Member=Component ON/OFF EG1218
+Added Member To Class: ClassName=NeoPixel Member=Component U2 1655
+Added Member To Class: ClassName=NeoPixel Member=Component U4 1655
+Added Member To Class: ClassName=NeoPixel Member=Component U6 1655
+Added Room: Name=Alimentacion
+Added Room: Name=Buzzer
+Added Room: Name=Motores
+Added Room: Name=NeoPixel
+Added Room: Name=schematic

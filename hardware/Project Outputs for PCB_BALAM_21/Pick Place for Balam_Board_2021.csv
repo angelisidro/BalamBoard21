@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\50232\Desktop\PCB\TESLA\PCB_BALAM_21\Project Outputs for PCB_BALAM_21\Pick Place for Balam_Board_2021.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/05/21
+Time:       11:41
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"ESP","BottomLayer","SHIELD_ESP32_WR32E","48.2989","44.1861","180",""
+"P3","BottomLayer","61300411021","55.4696","72.2725","347,5","THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 4 pins"
+"J2","BottomLayer","FP-M20-9950345-MFG","43.1173","71.1808","9,80000000000001","CONN HEADER R/A 6POS 2.54MM"
+"J4","BottomLayer","FP-M20-9950345-MFG","58.6722","12.2240","197,4999953233","CONN HEADER R/A 6POS 2.54MM"
+"P2","BottomLayer","61000621121","27.3439","63.2361","90","SMT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Dual Row, 6 pins"
+"U10","BottomLayer","TO-252_M","73.2989","57.9401","89,7466838061809","Positive Voltage Regulator, 3-Pin DPAK, Tape and Reel"
+"U9","BottomLayer","FP-SSOP24-P-300-0_65A-IPC_A","48.6799","41.6461","180","IC MOTOR DRIVER 2.7V-5.5V 24SSOP"
+"U7","TopLayer","ADA-RGB-1655_V","16.2192","53.4609","70,0000152587891","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U6","TopLayer","ADA-RGB-1655_V","14.2674","38.6354","95,145797729492","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U5","TopLayer","ADA-RGB-1655_V","18.7640","24.3741","120","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U4","TopLayer","ADA-RGB-1655_V","28.8663","13.3493","145,000006865549","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U3","TopLayer","ADA-RGB-1655_V","68.2022","13.7655","215,000001823031","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U2","TopLayer","ADA-RGB-1655_V","78.1560","24.6281","240,034063339233","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U1","TopLayer","ADA-RGB-1655_V","82.5964","38.2635","263,966866803524","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U0","TopLayer","ADA-RGB-1655_V","80.6633","53.2871","291,65106010437","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"R11","BottomLayer","RESC2013X60X40ML20T25","47.9789","10.0231","180",""
+"R2","BottomLayer","RESC2013X60X30ML20T20","50.5849","53.3301","360","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film"
+"R1","BottomLayer","RESC0805(2012)_M","50.5849","50.5361","360","1K 0.125W 1% 0805 (2012 Metric)  SMD"
+"Q2","BottomLayer","INF-PG-TSDSON-8-1_V","66.1164","71.8721","180","P-Channel OptiMOS P3 Power-Transistor, -30 V VDS, -40 A ID, -55 to 150 degC, PG-TSDSON-8-1, Reel, Green"
+"Q1","BottomLayer","DIOD-SOT23-3_V","46.1239","51.8671","360","N-Channel Enhancement Mode Mosfet, 50 V, 0.2 A, -55 to 150 degC, 3-Pin SOT23, RoHS, Tape and Reel"
+"P1","TopLayer","SMTC-TSW-103-07-X-S","27.2169","53.9651","360","0.025" SQ Post Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 3-Pin, Male, RoHS"
+"ON/OFF","TopLayer","ESWI-EG1218_V","69.2627","38.2171","180","Slide Switch, 500 V, -20 to 70 degC, 3-Pin THD, RoHS"
+"ON/OFF","TopLayer","ESWI-EG1218_V","27.1769","37.8361","180","Slide Switch, 500 V, -20 to 70 degC, 3-Pin THD, RoHS"
+"MOTOR_2","BottomLayer","691214110002","68.8729","48.4761","90","Serie 2141 - 3.50 mm Horizontal Entry Modular with Rising Cage Clamp WR-TBL, 2 pin"
+"MOTOR_1","BottomLayer","691214110002","27.0089","47.9961","270","Serie 2141 - 3.50 mm Horizontal Entry Modular with Rising Cage Clamp WR-TBL, 2 pin"
+"I2C","BottomLayer","PIN_SOCKET_4P","68.2379","58.2831","270","Female Header 4 1 Straight,180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS"
+"D1","BottomLayer","FP-HSMG-C150-MFG","48.2989","6.4671","360","LED GREEN DIFFUSED 1206 SMD"
+"C17","BottomLayer","FP-FK-D-MFG","69.2539","30.4701","360","CAP ALUM 47UF 20% 35V SMD"
+"C16","BottomLayer","FP-FK-D-MFG","27.0029","30.4701","180","CAP ALUM 47UF 20% 35V SMD"
+"C15","BottomLayer","CAPC2013X140X50ML20T25","45.6597","61.4273","360","10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
+"C14","BottomLayer","CAPC2013X94X50ML20T25","52.3629","61.4581","180","Chip Capacitor, Ceramic, 0.1 uF, 10%, 50 V, 0805, RoHS, Tape and Reel"
+"C13","BottomLayer","CAPC2013X140X50ML20T25","45.6319","58.4101","360","10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
+"C12","BottomLayer","CAPC2013X140X50ML20T25","45.6510","64.2521","360","10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
+"C11","BottomLayer","CAPC2013X140X50ML20T25","52.3739","64.2521","180","10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
+"C10","BottomLayer","CAPC2013X94X50ML20T25","67.9839","67.0461","180","Chip Capacitor, Ceramic, 0.1 uF, 10%, 50 V, 0805, RoHS, Tape and Reel"
+"C9","BottomLayer","CAPC2013X94X50ML20T25","52.3629","58.4101","180","Chip Capacitor, Ceramic, 0.1 uF, 10%, 50 V, 0805, RoHS, Tape and Reel"
+"C8","BottomLayer","CAPC2013X140X50ML20T25","16.2949","53.4571","180",""
+"C7","BottomLayer","CAPC2013X140X50ML20T25","14.2629","38.8521","180",""
+"C6","BottomLayer","CAPC2013X140X50ML20T25","18.9729","24.7551","180",""
+"C5","BottomLayer","CAPC2013X140X50ML20T25","28.8679","13.4521","180",""
+"C4","BottomLayer","CAPC2013X140X50ML20T25","68.2379","13.7061","360",""
+"C3","BottomLayer","CAPC2013X140X50ML20T25","78.1439","24.7551","360",""
+"C2","BottomLayer","CAPC2013X140X50ML20T25","82.5889","38.2171","360",""
+"C1","BottomLayer","CAPC2013X140X50ML20T25","80.5569","53.4571","180",""
+"BUZZER","BottomLayer","FP-PS1720P02-MFG","48.4259","23.1841","90","AUDIO PIEZO TRANSDUCER 30V TH"
+"BATT","BottomLayer","691214110002","37.3671","9.6160","162,983960407594","Serie 2141 - 3.50 mm Horizontal Entry Modular with Rising Cage Clamp WR-TBL, 2 pin"

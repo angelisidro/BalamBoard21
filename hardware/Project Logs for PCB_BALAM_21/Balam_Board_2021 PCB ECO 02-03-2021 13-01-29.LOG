@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GPIO0 Pin=ESP1-0
+Added Pin To Net: NetName=GPIO2 Pin=ESP1-2
+Added Pin To Net: NetName=DIN_Neopixel Pin=ESP1-15
+Added Pin To Net: NetName=BIN_1 Pin=ESP1-25
+Added Pin To Net: NetName=BIN_2 Pin=ESP1-26
+Added Pin To Net: NetName=AIN_1 Pin=ESP1-32
+Added Pin To Net: NetName=AIN_2 Pin=ESP1-33
+Added Pin To Net: NetName=CNY3 Pin=ESP1-34
+Added Pin To Net: NetName=CNY4 Pin=ESP1-35
+Added Pin To Net: NetName=CNY2 Pin=ESP1-VN

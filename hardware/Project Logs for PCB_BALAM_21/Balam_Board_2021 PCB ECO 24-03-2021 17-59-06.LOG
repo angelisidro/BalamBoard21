@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=Motores Member=ON/OFF
+Change Component Designator: OldDesignator=ESP NewDesignator=ESP1
+Change Component Designator: OldDesignator=ON/OFF NewDesignator=ON/OFF1
+Change Component Designator: OldDesignator=U0 NewDesignator=U1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Description : Designator=C11 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C12 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C13 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C15 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Added Component: Designator=P20(61000621121)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6100xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61000621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61000621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P20-1
+Added Pin To Net: NetName=GND Pin=P20-2
+Added Pin To Net: NetName=SCLK Pin=P20-3
+Added Pin To Net: NetName=SDI/SPI Pin=P20-4
+Added Pin To Net: NetName=CS Pin=P20-5
+Added Pin To Net: NetName=SDO Pin=P20-6
+Added Member To Class: ClassName=Motores Member=Component ON/OFF1 EG1218
+Added Member To Class: ClassName=schematic Member=Component P20 61000621121
+Added Room: Name=Alimentacion
+Added Room: Name=Buzzer
+Added Room: Name=Motores
+Added Room: Name=NeoPixel
+Added Room: Name=schematic

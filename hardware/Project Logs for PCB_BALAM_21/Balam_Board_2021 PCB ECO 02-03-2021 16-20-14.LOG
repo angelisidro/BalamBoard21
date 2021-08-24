@@ -1,0 +1,7 @@
+Change Component Description : Designator=C11 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C12 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C13 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C15 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Added Pin To Net: NetName=DIN_Neopixel2 Pin=ESP1-13
+Added Pin To Net: NetName=DIN_Neopixel2 Pin=U5-4
+Added Net: Name=DIN_Neopixel2

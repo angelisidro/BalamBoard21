@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=schematic.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=schematic.SchDoc|Designator=Alimentacion|SchDesignator=Alimentacion|FileName=Alimentacion.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Alimentacion.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=schematic.SchDoc|Designator=Buzzer|SchDesignator=Buzzer|FileName=Buzzer.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Buzzer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=schematic.SchDoc|Designator=Motores|SchDesignator=Motores|FileName=Motores.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Motores.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=schematic.SchDoc|Designator=NeoPixel|SchDesignator=NeoPixel|FileName=NeoPixel.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=NeoPixel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
